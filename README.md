@@ -9,6 +9,7 @@ This is a personal repository for Crouton Chroots, Using Crouton to dualboot Lin
   https://github.com/BiscottiMuncher/OpenChromeBook/blob/master/Setup
   
 -Instilation
+  https://github.com/BiscottiMuncher/OpenChromeBook/blob/master/Installation
 
 -Other
 
