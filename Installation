@@ -1,0 +1,16 @@
+So, you got in to developer mode, i'm proud of ya.
+Now that your in develope mode you can install Crouton and then Linux
+
+1.Getting crouton installed
+  - Go over to https://github.com/dnschneid/crouton and download the repository
+    ~ These files are all for the insallation of Crouton
+  - While these files are downloading go and get the executable for Crouton
+    ~ https://goo.gl/fd3zc
+    1a. Making the file executable
+      - This file alone cannot do anything so we have to make it an executable.
+        ~ Hop into a new terminal window and type "shell", this will allow you to exxecute developer commands.
+          - "sudo install -Dt /usr/local/bin -m 755 ~/Downloads/crouton"
+          - This will make the file an executable
+          
+2.Running the Executable
+   
