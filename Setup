@@ -1,0 +1,28 @@
+PRE-INSTALLATION SETUP
+
+Crouton is an extremely powerful tool, being able to boot multiple versions of linux on a cheap mobile platform is a dreamy experience.
+
+You may be asking, "How do I do this??" well thats why I am making this...
+
+-What to do
+
+  1.Enter into developer mode
+    *WARNING THIS WILL WIPE YOUR CHROMEBOOK*
+    -This is rather easy, all you need to do is hold down "ESC + RELOAD(f5) + POWER" for a few seconds. 
+    -This will then bring up a splash screen with a large Exclimation point, this is just a warning for the less experienced.
+    -A second screen will appeat that says that OS Verification is off.
+      ~While on this screen Press ENTER to enter developer mode, as stated before this will wipe all the data off of your chromebook
+    -Your chromebook will restart and load into developer mode!
+      ~This can take a few minutes so go and make some cereal or your treat of choice.
+    -After is is done reloading and has restarted a new screen will appear upon Start Up, Press CTRL + D to pybass the screen, DONOT Press Enter it will reset your chromebook back to factory settings.
+    -You will have to log back into your Google account
+   
+  2.Testing if you are in Developer mode
+    -If you completed all of the steps correctly you should be in DEVELOPER MDOE, to test this simultaneously press "CTRL + ALT + T" this will bring up a terminal.
+    -When you enter the terminal type "shell" and press ENTER.
+    -If done correctly the "crosh>" should turn into "chronos@localhost / $"
+    
+  3.Finishing up
+    -Good job, are now in Developer Mode, give your self a pat on the back and get ready for some linux installation.
+  
+   
